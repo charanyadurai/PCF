@@ -1,0 +1,14 @@
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\bin\Debug\netcoreapp2.1\PCFTestAPI.deps.json
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\bin\Debug\netcoreapp2.1\PCFTestAPI.runtimeconfig.json
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\bin\Debug\netcoreapp2.1\PCFTestAPI.runtimeconfig.dev.json
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\bin\Debug\netcoreapp2.1\PCFTestAPI.dll
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.csprojAssemblyReference.cache
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.csproj.CoreCompileInputs.cache
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.RazorAssemblyInfo.cache
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.RazorAssemblyInfo.cs
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.AssemblyInfoInputs.cache
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.AssemblyInfo.cs
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.RazorTargetAssemblyInfo.cache
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\bin\Debug\netcoreapp2.1\PCFTestAPI.pdb
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.dll
+C:\Users\C_Allidurai\source\repos\PCFTestAPI\PCFTestAPI\obj\Debug\netcoreapp2.1\PCFTestAPI.pdb
